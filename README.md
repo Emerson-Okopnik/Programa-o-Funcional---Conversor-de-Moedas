@@ -30,3 +30,20 @@ PHP 7.4 ou superior
 Composer para gerenciar dependências
 Servidor HTTP local como Apache
 Guzzle para fazer requisições HTTP
+
+## Instalação
+
+1. **Clone este repositório**:
+
+   ```bash
+   git clone https://github.com/Emerson-Okopnik/Programa-o-Funcional---Conversor-de-Moedas.git
+  # 
+2. Instale as Dependências (Composer):
+   ````bash
+   composer install
+   ````
+   # 
+3. inicie o servidor local: 
+      ````bash
+   php -S localhost:80
+   ````
