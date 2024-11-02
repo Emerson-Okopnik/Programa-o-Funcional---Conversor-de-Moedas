@@ -1,4 +1,4 @@
-Conversor de Moedas
+# Conversor de Moedas
 Este é um projeto simples de conversor de moedas que permite ao usuário converter valores entre diferentes moedas. A aplicação utiliza programação funcional para realizar as conversões de forma precisa e imutável.
 
 Funcionalidades
